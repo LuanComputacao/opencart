@@ -1,12 +1,7 @@
-/////////////////////////////////
-///       OpenCart V3.x     ///
-///    Install Instructions   ///
-///  http://www.opencart.com  ///
-/////////////////////////////////
+# Install Instructions
 
-
-NOTE: THIS IS FOR NEW INSTALL ONLY!
-IF UPGRADING YOUR EXISTING CART, BE SURE TO READ THE UPGRADE.TXT FILE INSTEAD
+	NOTE: THIS IS FOR NEW INSTALL ONLY!
+	IF UPGRADING YOUR EXISTING CART, BE SURE TO READ THE UPGRADE.TXT FILE INSTEAD
 
 
 -------
